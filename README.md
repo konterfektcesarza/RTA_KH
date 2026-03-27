@@ -1,2 +1,1 @@
-# RTA_KH
-Real-time analytics course repo 
+"# Analiza danych w czasie rzeczywistym" 
